@@ -1,0 +1,2 @@
+(()=>{"use strict";console.log("some func 123")})();
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5iZmJmNmQ1Mjc2YmM4ZmMzNTRlMi5qcyIsIm1hcHBpbmdzIjoibUJBQ0lBLFFBQVFDLElBQUksZ0IiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9mcm9udGVuZF9sZXNzb25zLy4vc3JjL3Rlc3QudHMiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHZhciBzb21lRm4gPSBmdW5jdGlvbiAoKSB7XG4gICAgY29uc29sZS5sb2coJ3NvbWUgZnVuYyAxMjMnKTtcbn07XG4iXSwibmFtZXMiOlsiY29uc29sZSIsImxvZyJdLCJzb3VyY2VSb290IjoiIn0=
