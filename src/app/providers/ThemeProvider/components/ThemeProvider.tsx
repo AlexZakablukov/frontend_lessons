@@ -1,6 +1,6 @@
 import React, {useMemo, useState} from 'react';
-import {LOCAL_STORAGE_THEME_KEY, ThemeContext} from "./ThemeContext";
-import {ETheme} from "./ThemeContext";
+import {LOCAL_STORAGE_THEME_KEY, ThemeContext} from "../libs/ThemeContext";
+import {ETheme} from "../libs/ThemeContext";
 
 interface IThemeProviderProps {
     children: React.ReactNode
