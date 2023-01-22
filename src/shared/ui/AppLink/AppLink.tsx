@@ -14,7 +14,7 @@ interface IAppLinkProps extends LinkProps{
   theme?: EAppLinkTheme;
 }
 
-const AppLink: FC<IAppLinkProps> = (props) => {
+export const AppLink: FC<IAppLinkProps> = (props) => {
     const {
         to,
         children,
@@ -33,5 +33,3 @@ const AppLink: FC<IAppLinkProps> = (props) => {
         </Link>
     );
 };
-
-export default AppLink;
