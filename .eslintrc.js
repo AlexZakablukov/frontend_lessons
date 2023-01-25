@@ -15,7 +15,8 @@ module.exports = {
     project: './tsconfig.json'
   },
   plugins: [
-    'react'
+    'react',
+    'i18next'
   ],
   settings: {
     react: {
@@ -31,7 +32,8 @@ module.exports = {
     '@typescript-eslint/strict-boolean-expressions': 'off',
     '@typescript-eslint/no-non-null-asserted-nullish-coalescing': 'off',
     '@typescript-eslint/no-floating-promises': 'off',
-    '@typescript-eslint/prefer-nullish-coalescing': 'off'
+    '@typescript-eslint/prefer-nullish-coalescing': 'off',
+    'i18next/no-literal-string': 2
   },
   globals: {
     __IS_DEV__: true
