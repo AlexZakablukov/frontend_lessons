@@ -1,4 +1,4 @@
 export enum ERoutePath {
-    MAIN = '/',
-    ABOUT = '/about'
+  MAIN = '/',
+  ABOUT = '/about'
 }

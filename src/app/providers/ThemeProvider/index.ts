@@ -1,9 +1,9 @@
-import ThemeProvider from "./components/ThemeProvider";
-import {useTheme} from "./libs/useTheme";
-import {ETheme} from "./libs/ThemeContext";
+import ThemeProvider from './components/ThemeProvider'
+import { useTheme } from './lib/useTheme'
+import { ETheme } from './lib/ThemeContext'
 
 export {
-    ThemeProvider,
-    useTheme,
-    ETheme
+  ThemeProvider,
+  useTheme,
+  ETheme
 }
